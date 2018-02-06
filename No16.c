@@ -20,7 +20,7 @@ void main()
  if(flag==0)
  {
    printf("%d",a);
- Com    ++a;
+    ++a;
  } 
 }
 getch();
