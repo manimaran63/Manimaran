@@ -2,12 +2,12 @@
 #include<conio.h>
 void main()
 {
-    int a;
-    char b='A';
+    int m;
+    char n='A';
     clrscr();
     printf("Enter the number\n");
-    scanf("%d",&a);
-    b=b+a-1;
-    printf("%c",b);
+    scanf("%d",&m);
+    n=n+m-1;
+    printf("%c",n);
     getch();
 }
